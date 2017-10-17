@@ -1,2 +1,25 @@
 ﻿body {
+    background-color: #5179c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p {
+    text-align:center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.copyright {
+    text-align: left;
+    font-size: 10px;
+    font-style: italic;
+}
+
+a{
+    color: #800080;
+}
+
+

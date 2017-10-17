@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #55CCFF;
+}
+
+ul {
+    font-family: Arial;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li::first-letter {
+    font-size: 170%;
+    font-weight: 500;
+}
+
+p {
+    text-align: center;
+    font-family: Arial;
+}
+
+.copyright {
+    text-align: left;
+}

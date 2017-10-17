@@ -1,0 +1,36 @@
+﻿body {
+    border-style: dashed;
+    font-family: Arial;
+    background-color: burlywood;
+    font-style: italic;
+}
+
+main {
+    background-color: white;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+     text-align: center; 
+     padding: 0px 15px 0px 15px; 
+    
+}
+
+li::first-letter {
+    font-size: 170%;
+    font-weight: 500;
+}
+
+h1 {
+    margin: 0px;
+    border-style: dashed;
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+}
